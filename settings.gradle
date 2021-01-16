@@ -1,2 +1,3 @@
+include ':smartcard'
 include ':app'
 rootProject.name = "SmartCard"
