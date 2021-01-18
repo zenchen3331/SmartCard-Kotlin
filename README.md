@@ -196,7 +196,12 @@ class MainActivity: AppCompatActivity() {
 }
 ```
 
+# APK
+
+[点击下载](https://github.com/zenchen3331/SmartCard-Kotlin/raw/master/app-debug.apk)
+
 # [WiKi](https://github.com/zenchen3331/SmartCard-Kotlin/wiki)
+
 欢迎发邮件或者提issue
 
 # 感谢
