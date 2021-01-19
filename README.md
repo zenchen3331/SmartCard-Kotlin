@@ -31,10 +31,10 @@ Step 1：Add it in your root build.gradle at the end of repositories:
 
 ```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+    repositories {
+	...
+	maven { url 'https://jitpack.io' }
+    }
 }
 ```
 
@@ -42,7 +42,7 @@ Step 2：Add the dependency
 
 ```
 dependencies {
-	 implementation 'com.github.zenchen3331:SmartCard-Kotlin:0.3.2'
+    implementation 'com.github.zenchen3331:SmartCard-Kotlin:0.3.2'
 }
 ```
 
