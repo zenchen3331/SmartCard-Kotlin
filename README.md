@@ -1,6 +1,6 @@
 # SmartCard-Kotlin
 <p align="center">
-   <a href="https://jitpack.io/#zenchen3331/SmartCard-Kotlin">
+  <a href="https://jitpack.io/#zenchen3331/SmartCard-Kotlin">
     <img src="https://jitpack.io/v/zenchen3331/SmartCard-Kotlin.svg" alt="JitPack" />
   </a>
   <a href="https://img.shields.io/github/license/zenchen3331/SmartCard-Kotlin">
@@ -9,8 +9,11 @@
   <a href="https://developer.android.com/about/versions/android-4.4.html">
     <img src="https://img.shields.io/badge/API-19+-blue.svg" alt="Min Sdk Version" />
   </a>
-  <a href="http://www.apache.org/licenses/LICENSE-2.0">
-    <img src="http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License" />
+  <a href="https://zenchen3331.github.io/">
+    <img src="https://img.shields.io/badge/Author-zzzl-orange.svg?style=flat-square" alt="Author" />
+  </a>
+  <a href="https://www.yuque.com/u1167938/jsa">
+   <img src="https://img.shields.io/badge/语雀-Android学习-orange.svg?style=flat-square" alt="语雀" />
   </a>
 </p>
 # SmartCard
